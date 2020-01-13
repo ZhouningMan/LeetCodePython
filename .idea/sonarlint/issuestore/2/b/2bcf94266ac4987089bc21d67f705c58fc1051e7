@@ -1,0 +1,4 @@
+
+rpython:S100"ORename method "deepCopy" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¦¯Ö˜ûÿÿÿÿ8Í¸É‚Ê-
+qpython:S100$"NRename method "isValid" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ó£‚çþÿÿÿÿ8ÉðÜ‚Ê-
+qpython:S100"SRename method "solveNQueens" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(½ç™±8·Êµ‚Ê-

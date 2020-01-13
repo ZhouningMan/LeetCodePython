@@ -1,0 +1,5 @@
+
+spython:S100"RRename method "getNewsFeed" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©Ò¼ëÿÿÿÿÿ8©×»ç³-
+spython:S100"RRename method "getTimeline" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ø°Ïßÿÿÿÿÿ8¶÷½ç³-
+lpython:S100"PRename method "postTweet" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»·ìÂ8©×»ç³-
+Lpython:S1481"*Remove the unused local variable "tweets".(«ªß¹ÿÿÿÿÿ8Ãó×ç³-

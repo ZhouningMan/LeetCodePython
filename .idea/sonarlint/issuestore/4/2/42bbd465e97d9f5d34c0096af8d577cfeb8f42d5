@@ -1,0 +1,10 @@
+
+upython:S100"YRename method "minDominoRotations" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÐÑ­†ùÿÿÿÿ
+ipython:S117"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÐÑ­†ùÿÿÿÿ
+ipython:S117"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÐÑ­†ùÿÿÿÿ
+spython:S117"WRename this local variable "matchA" to match the regular expression ^[_a-z][a-z0-9_]*$.(Öã´þýÿÿÿÿ
+spython:S117"WRename this local variable "matchB" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÈÔßƒþÿÿÿÿ
+ipython:S117"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼–ž»üÿÿÿÿ
+ipython:S117"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼–ž»üÿÿÿÿ
+opython:S117"XRename this local variable "rotateA" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡ïÖÓ
+opython:S117"XRename this local variable "rotateB" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰õñÊ

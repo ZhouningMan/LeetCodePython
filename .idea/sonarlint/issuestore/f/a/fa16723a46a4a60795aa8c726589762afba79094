@@ -1,0 +1,4 @@
+
+gpython:S100"PRename method "kDistance" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÊÓ
+;python:S125"Remove this commented out code.(°ÅÆ™ùÿÿÿÿ
+gpython:S100\"PRename method "kDistance" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÊÓ

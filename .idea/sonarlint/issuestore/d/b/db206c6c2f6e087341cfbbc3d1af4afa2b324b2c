@@ -1,0 +1,5 @@
+
+gpython:S117"QRename this parameter "headA" to match the regular expression ^[_a-z][a-z0-9_]*$.(çñÙ
+gpython:S117"QRename this parameter "headB" to match the regular expression ^[_a-z][a-z0-9_]*$.(çñÙ
+Bpython:S125""Remove this commented out code.(Àš¨Òùÿÿÿÿ8î½É-
+ppython:S100"ZRename method "getIntersectionNode" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çñÙ

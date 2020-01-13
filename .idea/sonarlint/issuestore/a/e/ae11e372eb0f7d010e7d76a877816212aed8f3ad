@@ -1,0 +1,4 @@
+
+rpython:S100"[Rename method "minCostToSupplyWater" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œ…Ö‘
+fpython:S100"ORename method "getEdges" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÄÌ¿‰
+ppython:S117"YRename this local variable "allEdges" to match the regular expression ^[_a-z][a-z0-9_]*$.(•Ω∞œ

@@ -1,0 +1,8 @@
+
+ppython:S117 "MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(½šÇÿúÿÿÿÿ8ÜşñˆÊ-
+Rpython:S1481".Remove the unused local variable "depulicate".( åç›ÿÿÿÿÿ8èù–‰Ê-
+ppython:S117	"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷¿µ¾ıÿÿÿÿ8êúæˆÊ-
+ppython:S117-"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(»Ô™¢şÿÿÿÿ8êúæˆÊ-
+|python:S100	"YRename method "permutationIndexII" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(÷¿µ¾ıÿÿÿÿ8ø’ûˆÊ-
+kpython:S117"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(“¥ãª8ö —‰Ê-
+Jpython:S1481"+Remove the unused local variable "num_map".(µÜµ8èˆ™‰Ê-

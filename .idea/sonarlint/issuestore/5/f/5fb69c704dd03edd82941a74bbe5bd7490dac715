@@ -1,0 +1,4 @@
+
+ppython:S117"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(Úèö¼ùÿÿÿÿ8¨›äýÉ-
+wpython:S100"TRename method "sortIntegers2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ñ¦Þ¸ýÿÿÿÿ8¨›äýÉ-
+ppython:S117"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ¦Þ¸ýÿÿÿÿ8¨›äýÉ-

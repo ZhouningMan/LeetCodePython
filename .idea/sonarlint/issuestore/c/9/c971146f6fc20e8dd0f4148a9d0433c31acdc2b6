@@ -1,0 +1,5 @@
+
+lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(óŸ—
+qpython:S3776-"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(çŠâÇüÿÿÿÿ
+epython:S100"NRename method "isMatch" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(óŸ—
+kpython:S100-"ORename method "isMatch2" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(çŠâÇüÿÿÿÿ

@@ -1,0 +1,6 @@
+
+bpython:S117"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(²ê­ž
+gpython:S117"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(…€‹Öýÿÿÿÿ
+wpython:S100"]Rename method "findMedianSortedArrays" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(…€‹Öýÿÿÿÿ
+bpython:S117"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(²ê­ž
+gpython:S117"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(…€‹Öýÿÿÿÿ
